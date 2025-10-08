@@ -8,7 +8,7 @@ Convert an Apple Music playlist (exported as a `.txt` file) into a Spotify playl
 - Creates a new Spotify playlist and adds the tracks that were listed the .txt
 - If any tracks could not be converted, prints a list of those that failed
 
---
+---
 
 Note: Playlists must be exported as a plain text file 
 
